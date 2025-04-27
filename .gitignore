@@ -1,0 +1,77 @@
+# ========== Unity Generated ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+.assetstoretools/
+
+# ========== Unity Collab ==========
+.collabignore
+.Collab/
+
+# ========== IDE Specific ==========
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.pidb
+*.booproj
+*.svd
+*.sln
+*.sln*
+
+# ========== OS Specific ==========
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========== Build Artifacts ==========
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.exe
+*.app
+*.ipa
+
+# ========== Packages ==========
+Packages/packages-lock.json
+
+# ========== Machine Learning / AI Files (Optional) ==========
+*.pt
+*.pth
+*.onnx
+*.pb
+
+# ========== Python / Jupyter Notebooks (Optional) ==========
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# ========== Logs & Cache ==========
+*.log
+
+# ========== Backup / Temp Files ==========
+*.bak
+*.tmp
+*.old
+~$*
+
+# ========== Ignore Local ML folders ==========
+shap_e_model_cache/
+kaolin/
+
+# ========== If using JetBrains Rider ==========
+.idea/
+*.csproj.user
+.idea/.idea.*
+
+# ========== Uncomment if using Addressables ==========
+# Assets/AddressableAssetsData/*/*.bin
+# Assets/AddressableAssetsData/*/*.linker
